@@ -1,4 +1,29 @@
-.cabecalho{
-    background-color: hsl(220, 220, 220);
+body{
+    margin: 0px;
+    padding: 0%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.cabecalho{
+    background-color: rgb(223, 223, 223);
+    padding-top: 3px;
+
+}
+
+.amarelo{
+    background-color: rgb(240, 211, 83);
+    height: 20px;
+    margin: 0px;
+
+}
+.botoes{
+    background-color: rgb(223, 223, 223); 
+}
+.flex{
+    display: flex;
+}
+img{
+    width: 100%;
+}
+button{
+    margin: 5px;
 }
